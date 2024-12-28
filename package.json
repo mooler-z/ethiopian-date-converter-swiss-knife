@@ -1,5 +1,5 @@
 {
-  "name": "zemen",
+  "name": "zemen-converter",
   "version": "1.0.0",
   "description": "Swiss Knife version of Ethiopian Calendar converter utility for converting between Ethiopian and Gregorian calendar dates",
   "main": "dist/index.js",
