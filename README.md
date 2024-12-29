@@ -14,25 +14,25 @@ A lightweight and efficient Ethiopian calendar conversion library for JavaScript
 ## Installation
 
 ```bash
-npm install zemen
+npm install ethiopian-date-converter-swiss-knife
 ```
 
 ## or
 
 ```bash
-yarn add zemen
+yarn add ethiopian-date-converter-swiss-knife
 ```
 
 ## or
 
 ```bash
-pnpm add zemen
+pnpm add ethiopian-date-converter-swiss-knife
 ```
 
 ## Usage
 
 ```typescript
-import EthiopianCalendar from 'zemen';
+import EthiopianCalendar from 'ethiopian-date-converter-swiss-knife';
 
 const calendar = new EthiopianCalendar();
 
@@ -109,4 +109,3 @@ If you find this library helpful, please consider giving it a star ⭐️ on Git
 ---
 
 Made with ❤️ for the Ethiopian developer community
-# zemen

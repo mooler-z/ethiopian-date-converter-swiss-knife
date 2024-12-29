@@ -1,5 +1,5 @@
 {
-  "name": "zemen-converter",
+  "name": "ethiopian-date-converter-swiss-knife",
   "version": "1.0.0",
   "description": "Swiss Knife version of Ethiopian Calendar converter utility for converting between Ethiopian and Gregorian calendar dates",
   "main": "dist/index.js",
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mooler-z/zemen.git"
+    "url": "git+https://github.com/mooler-z/ethiopian-date-converter-swiss-knife.git"
   },
   "bugs": {
-    "url": "https://github.com/mooler-z/zemen/issues"
+    "url": "https://github.com/mooler-z/ethiopian-date-converter-swiss-knife/issues"
   },
-  "homepage": "https://github.com/mooler-z/zemen#readme",
+  "homepage": "https://github.com/mooler-z/ethiopian-date-converter-swiss-knife#readme",
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.3.0",
     "@types/jest": "^27.5.2",
